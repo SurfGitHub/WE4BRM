@@ -1,0 +1,260 @@
+Platform,121939
+z_Archived,85072
+JDT,62927
+Community,24597
+CDT,22209
+PDE,17518
+Equinox,14490
+Papyrus,12742
+Orion,10470
+Mylyn,8864
+EclipseLink,8446
+EMF,8350
+WTP Source Editing,6670
+TMF,5449
+WTP Java EE Tools,5354
+RAP,5313
+EGit,5288
+Target Management,4253
+Jetty,3807
+e4,3795
+None,3607
+WTP Webservices,3562
+EPF,3219
+GEF,3199
+WTP ServerTools,3144
+Data Tools,3129
+AspectJ,3081
+Dali JPA Tools,3059
+PTP,2844
+Sirius,2827
+GMF-Tooling,2818
+Subversive,2693
+JSDT,2613
+GMF-Runtime,2587
+WTP Common Tools,2369
+Xtend,2327
+OCL,2227
+ECF,2172
+ECP,2170
+Jubula,2154
+Oomph,2038
+Linux Tools,2011
+4DIAC,1997
+Capella,1974
+EPP,1963
+Virgo,1682
+Java Server Faces,1651
+JGit,1545
+AJDT,1507
+Viatra,1475
+Hudson,1446
+Orbit,1302
+EMFCompare,1297
+TCF,1293
+Mylyn Tasks,1290
+RTSC,1245
+DLTK,1179
+Lyo,1164
+Tigerstripe,1164
+Efxclipse,1139
+QVTo,1096
+WTP Releng,1086
+MDT.UML2,1071
+MoDisco,1062
+Mylyn Docs,1062
+Papyrus-rt,1049
+ACTF,1026
+NatTable,1022
+Riena,1014
+Acceleo,979
+Tracecompass,955
+Ease,940
+Web Tools,901
+Objectteams,833
+MPC,832
+BPMN2Modeler,805
+MTJ,794
+CBI,786
+Babel,783
+eTrice,765
+Mylyn Reviews R4E,716
+Mylyn Reviews,683
+Epsilon,672
+EMFT,642
+MAT,639
+Graphiti,631
+SWTBot,628
+Passage,573
+M2T,564
+EMFStore,557
+Kitalpha,535
+Sphinx,507
+Buildship,496
+lsp4e,493
+EMF Services,479
+STEM,470
+QVTd,438
+WTP EJB Tools,435
+Egerrit,414
+JWT,412
+MDT.XSD,407
+Vertx,402
+BPEL,395
+LDT,394
+EEF,373
+XWT,371
+OSEE,362
+MDT.RMF,350
+Dirigible,347
+RCPTT,347
+Ice,329
+MMT.ATL,328
+Ecoretools,322
+MDMBL,315
+Working Groups,300
+Statet,296
+EMF.Diffmerge,293
+Mylyn Builds,291
+M2E-WTP,290
+Handly,286
+VTP,260
+Mylyn Context,259
+GMP,246
+Gemini.Web,230
+Modeling,230
+WTP Website,222
+Smila,221
+App4mc,212
+EMF.EGF,212
+Mylyn Commons,212
+CFT,199
+Mylyn Docs Vex,194
+EMF.Parsley,185
+Skalli,178
+AMP,174
+Vorto,162
+Libra,159
+Edapt,157
+Dash,155
+Amalgam,153
+Thym,153
+Gendoc,147
+andmore,137
+Gemini.JPA,128
+Paho,125
+EMFT.Henshin,123
+Mihini,121
+Mylyn Context MFT,120
+MDT,114
+Reqcycle,113
+Capra,109
+Gemini.Blueprint,104
+Drupal,95
+Mylyn Docs Intent,93
+JTS,91
+Chemclipse,90
+Mylyn Versions,80
+OM2M,80
+Apogy,78
+MDT.BPMN2,72
+Californium,66
+Kura,60
+UOMo,56
+Tracecompass.Incubator,54
+Eclemma,52
+EFM,51
+Woolsey,51
+Gemini.Management,50
+Incubator,49
+USSSDK,49
+Simultaneous Release,46
+MMT,42
+uDig,39
+Che,36
+OGEE,34
+PMF,34
+MDHT,31
+Gemini.Naming,26
+Mylyn Incubator,24
+Yasson,23
+elogbook,21
+EMFT.Refactor,21
+Gemini.DBaccess,21
+Hawk,21
+Titan,20
+basyx,18
+Jersey,18
+Justj,17
+openj9,16
+Mangrove,14
+Time4sys,14
+Simopenpass,13
+Camf,12
+Elk,12
+Tools,12
+Wakaama,12
+General,11
+Secoblocks,11
+Glassfish,10
+Skills,10
+Technology Top Level,10
+FMC,9
+ESF,8
+jakartaee-platform,8
+openk-usermodules,8
+GeoMesa,7
+Texlipse,7
+GeoGig,6
+Microprofile,6
+Tea,6
+Unide,6
+Gemini,5
+SOA Platform,5
+Eavp,4
+Kapua,4
+PDT.Incubator,4
+UPR,4
+Ditto,3
+SwtChart,3
+XACC,3
+Codewind,2
+Cyclonedds,2
+EL,2
+GeoWave,2
+Hawkbit,2
+Milo,2
+Nebula.incubator,2
+OMR,2
+Orb,2
+Reddeer,2
+Rich Beans,2
+SFCurve,2
+Spatial4j,2
+SW360,2
+Agail,1
+B612,1
+Cognicrypt,1
+DAWNsci,1
+EJB,1
+EMFT.Doc2Model,1
+GeoBench,1
+GeoTrellis,1
+interceptors,1
+IoFog,1
+Jakartaee-stable,1
+jakartaee-tck,1
+Jaxrs,1
+jca,1
+Jifa,1
+JPA,1
+Jsonp,1
+JSP,1
+Keti,1
+Kuksa,1
+Libims,1
+MDMWeb,1
+OSBP,1
+Packager,1
+xpect,1
+total: 567898
